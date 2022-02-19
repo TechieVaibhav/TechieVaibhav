@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TechieVaibhav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... vaibhav.sharma.jp@gmail.com
+- 👀 I’m interested in ... mobile Apps Development. 
+- 🌱 I’m currently learning ... Swift & Swift UI.
+- 📫 You can contact  me by email vaibhav.sharma.jp@gmail.com
 
 <!---
 TechieVaibhav/TechieVaibhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
